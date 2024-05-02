@@ -1,2 +1,2 @@
 # .github
-Main ezoi
+This is the root repo of the organisation
