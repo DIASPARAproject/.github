@@ -1,4 +1,4 @@
-# DIAPARA
+# DIASPARA
 ## Objectives
 Improving scientific knowledge on the European eel and Atlantic/Baltic salmon to strengthen the science-basis of management decisions under the Common Fisheries Policy
 
